@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Notes For Himani</string>
+    <string name="others">Others</string>
+    <string name="poems">Poems</string>
+    <string name="thoughts">Thoughts</string>
+    <string name="life">Life</string>
+    <string name="welcome">Welcome</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="himani">Himani</string>
+    <string name="add">+</string>
+    <string name="time">Time</string>
+    <string name="description">Description</string>
+    <string name="confirm">Confirm</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_note_here">Enter note here</string>
+    <string name="save">Save</string>
+    <string name="old_password">Old Password</string>
+    <string name="confirm_your_password">Confirm Your Password</string>
+    <string name="new_pass">Enter New Password</string>
+    <string name="developer">Designed and developed by Himani Singh</string>
+    <string name="hbd">Happy Birthday</string>
+</resources>

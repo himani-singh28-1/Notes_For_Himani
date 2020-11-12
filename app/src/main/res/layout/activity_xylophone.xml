@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".xylophone">
+
+    <Button
+        android:id="@+id/button16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ee1a1c"
+        android:onClick="playit"
+        android:layout_weight="1"/>
+
+    <Button
+        android:id="@+id/button12"
+        android:onClick="playit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#f9931c"
+        android:layout_weight="1"/>
+
+    <Button
+        android:id="@+id/button15"
+        android:onClick="playit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#f3e60c"
+        android:layout_weight="1"/>
+
+    <Button
+        android:id="@+id/button11"
+        android:onClick="playit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#00a556"
+        android:layout_weight="1"/>
+
+    <Button
+        android:id="@+id/button10"
+        android:onClick="playit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#57c8ea"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/button13"
+        android:onClick="playit"
+        android:layout_width="match_parent"
+        android:background="#124a97"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+
+    <Button
+        android:id="@+id/button14"
+        android:onClick="playit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#873c99"
+        android:layout_weight="1"/>
+</LinearLayout>
