@@ -1,3 +1,6 @@
-"# notes_for_himani" 
-"# notes_for_himani" 
-"# notes_for_himani" 
+# A Notes Keeping App for Android
+## Encerypted Notes
+## Background Music
+## Stress Releaser Xylophone
+## Password Protected
+## My Photograph
